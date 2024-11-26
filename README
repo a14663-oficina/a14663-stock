@@ -1,3 +1,5 @@
+<h1>Programa para Stock</h1>
+<p>
 def adicionar_material(stock): (Esta função serve para guardar o código todo e sempre que o
 quisermos usar é preciso apenas chamar a função, e esta função no caso guarda o código de
 adicionar mais materiais ao stock)
